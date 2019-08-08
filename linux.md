@@ -23,8 +23,9 @@
 | uname -a                  | 查看当前 Linux 信息                                         |
 | tar -zxvf filename.tar.gz | 解压 xxx.tar.gz                                             |
 | tar -Jxvf filename.tar.xz | 解压 xxx.tar.xz                                             |
-| rm -rf \*                 | 删除文件夹下的所有文件，而不删除文件夹本身                  |
+| rm -rf \* (rm -rf ./\*)   | 删除文件夹下的所有文件，而不删除文件夹本身                  |
 | rm -rf /user/Dfile/httpd  | 将会删除/user/Dfile/httpd 目录以及其下所有文件、文件夹      |
+| chmod 777 build           | 赋予 build 文件夹的 xftp (上传下载权限)改成 777             |
 
 ## vim
 

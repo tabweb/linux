@@ -44,3 +44,7 @@ ln -s /usr/local/nodejs/bin/npm /usr/local/bin
 | --------------- | -------------- |
 | sudo yum update | 首先先更新系统 |
 | yum remove git  | 卸载 git       |
+
+
+## linux apt-git
+* [apt-get命令](https://man.linuxde.net/apt-get-2)
